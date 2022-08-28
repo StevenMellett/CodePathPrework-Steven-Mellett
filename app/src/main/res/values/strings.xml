@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CodePath Prework</string>
+    <string name="HelloWorld">Hello From Steve!</string>
+    <string name="WeepBeepBeep">Change Text Color</string>
+    <string name="ChangeBackground">Change Background</string>
+    <string name="android">Android is Awesome!</string>
+    <string name="ChangeTextVeiw">Change the Text</string>
+</resources>
